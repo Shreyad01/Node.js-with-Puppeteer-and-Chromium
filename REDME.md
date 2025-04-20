@@ -57,7 +57,7 @@ PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
    
    [requirements.txt](requirements.txt)
 
-![alt text](images/image.pngimage.png)
+![alt text](images/image.png)
 
 2. Serving Stage (Python + Flask)
 
